@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/mitchtabian/Clean-Notes.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/MindorksOpenSource/Android-Shimmer-Example.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
