@@ -46,6 +46,10 @@
           <option name="url" value="https://github.com/mcatta/GithubMockitoSample.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://aym-commerce@dev.azure.com/aym-commerce/AYM%20Vanguard/_git/vanguard-android" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
