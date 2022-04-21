@@ -8,10 +8,20 @@
             <value value="26abdac609017ece" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-21T18:31:08.655781Z" />
-        <name value="samsung SM-N960F" />
-        <target value="Android 9.0" />
-        <api value="28" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="(no serial number)" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
