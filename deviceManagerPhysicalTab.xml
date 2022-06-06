@@ -8,9 +8,9 @@
             <value value="26abdac609017ece" />
           </Key>
         </key>
-        <name value="samsung SM-N960F" />
-        <target value="Android 9.0" />
-        <api value="28" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
