@@ -24,6 +24,18 @@
         <target value="Android 1.0" />
         <api value="1" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="ZY32BJ4F69" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-06-28T03:28:19.918610Z" />
+        <name value="motorola moto g(9) play" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
