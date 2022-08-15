@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="ZY32BJ4F69" />
+          </Key>
+        </key>
+        <name value="motorola moto g(9) play" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="26abdac609017ece" />
           </Key>
         </key>
@@ -22,17 +33,6 @@
         <name value="Device" />
         <target value="Android 1.0" />
         <api value="1" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="ZY32BJ4F69" />
-          </Key>
-        </key>
-        <name value="motorola moto g(9) play" />
-        <target value="Android 10.0" />
-        <api value="29" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
