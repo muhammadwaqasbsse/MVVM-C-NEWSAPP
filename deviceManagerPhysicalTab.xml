@@ -10,7 +10,7 @@
         </key>
         <name value="samsung SM-N960F" />
         <target value="Android 9.0" />
-        <api value="28" />
+        <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -19,9 +19,8 @@
             <value value="ZY32BJ4F69" />
           </Key>
         </key>
-        <name value="motorola moto g(9) play" />
-        <target value="Android 10.0" />
-        <api value="29" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -32,7 +31,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -43,7 +41,7 @@
         </key>
         <name value="Google Pixel 4 XL" />
         <target value="Android API 33" />
-        <api value="33" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
