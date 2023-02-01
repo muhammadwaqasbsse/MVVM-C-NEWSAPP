@@ -2,12 +2,14 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:mine :level:verbose " />
         <option value="Attemp" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value=" com.pg.clubpampers.android.jp.uat" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine :level:debug  " />
         <option value=" com.pg.clubpampers.android.jp.uat" />
         <option value=" com.pg.clubpampers.android.us.uat" />
         <option value=" com.pg.clubpampers.android.de.uat" />
