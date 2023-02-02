@@ -6,8 +6,11 @@
         <option value="Attemp" />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="--&gt;" />
     <option name="nonFavorites">
       <list>
+        <option value="--&gt;" />
+        <option value="&lt;--" />
         <option value="package:mine " />
         <option value="package:mine :level:debug  " />
         <option value=" com.pg.clubpampers.android.jp.uat" />
