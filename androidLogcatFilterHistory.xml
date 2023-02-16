@@ -6,9 +6,10 @@
         <option value="Attemp" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="Attempting to log event: {" />
+    <option name="mostRecentlyUsed" value="--" />
     <option name="nonFavorites">
       <list>
+        <option value="--" />
         <option value="Attempting to log event: {" />
         <option value="com.pg.clubpampers.android.jp.uat" />
         <option value="--&gt;" />
