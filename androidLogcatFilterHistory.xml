@@ -6,11 +6,11 @@
         <option value="Attemp" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="Attempting to log event: {" />
     <option name="nonFavorites">
       <list>
-        <option value="Attempting to log event:" />
         <option value="Attempting to log event: {" />
+        <option value="Attempting to log event:" />
         <option value="--&lt;" />
         <option value="--&gt;" />
         <option value="--" />
