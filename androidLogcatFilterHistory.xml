@@ -6,11 +6,12 @@
         <option value="Attemp" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="InAppMediaExtended" />
+    <option name="mostRecentlyUsed" value="package:mine  " />
     <option name="nonFavorites">
       <list>
-        <option value="InAppMediaExtended" />
+        <option value="package:mine  " />
         <option value="https" />
+        <option value="InAppMediaExtended" />
         <option value="--&gt;" />
         <option value="--&lt;" />
         <option value="Attempting to log event: {" />
@@ -28,7 +29,6 @@
         <option value=" com.pg.clubpempers" />
         <option value=" com.pg." />
         <option value=" " />
-        <option value="com.pg.clubpampers.android.us.uat" />
       </list>
     </option>
   </component>
