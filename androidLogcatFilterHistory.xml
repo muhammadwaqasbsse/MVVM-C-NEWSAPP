@@ -6,14 +6,15 @@
         <option value="Attemp" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="VideoAdNativeFragment" />
+    <option name="mostRecentlyUsed" value="https" />
     <option name="nonFavorites">
       <list>
-        <option value="VideoAdNativeFragment" />
-        <option value="Attempting to log event: {" />
-        <option value="Attempting to log event:" />
-        <option value="--&lt;" />
+        <option value="https" />
         <option value="--&gt;" />
+        <option value="--&lt;" />
+        <option value="Attempting to log event: {" />
+        <option value="VideoAdNativeFragment" />
+        <option value="Attempting to log event:" />
         <option value="--" />
         <option value="com.pg.clubpampers.android.jp.uat" />
         <option value="package:com.pg.clubpampers.android.jp.uat" />
@@ -28,7 +29,6 @@
         <option value=" " />
         <option value="com.pg.clubpampers.android.us.uat" />
         <option value="Appli" />
-        <option value="Error" />
       </list>
     </option>
   </component>
