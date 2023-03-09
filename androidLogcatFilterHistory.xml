@@ -6,9 +6,10 @@
         <option value="Attemp" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="https" />
+    <option name="mostRecentlyUsed" value="InAppMediaExtended" />
     <option name="nonFavorites">
       <list>
+        <option value="InAppMediaExtended" />
         <option value="https" />
         <option value="--&gt;" />
         <option value="--&lt;" />
@@ -28,7 +29,6 @@
         <option value=" com.pg." />
         <option value=" " />
         <option value="com.pg.clubpampers.android.us.uat" />
-        <option value="Appli" />
       </list>
     </option>
   </component>
