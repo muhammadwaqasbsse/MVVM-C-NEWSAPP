@@ -98,6 +98,10 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="m.waqas@risinghightech.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/fbs-mobile/fleetcard-v3/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
