@@ -90,6 +90,14 @@
           <option name="url" value="https://github.com/philipplackner/CalorieTracker.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/fbs-mobile/fleetcard-v3/branch/main_working_branch_update_card_litre_unit_issue" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="m.waqas@risinghightech.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
